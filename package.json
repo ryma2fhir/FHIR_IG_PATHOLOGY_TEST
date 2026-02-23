@@ -1,0 +1,19 @@
+{
+  "name": "uk.nhsengland.r4",
+  "description": "NHS England Programme Implementation Guides",
+  "author": "nhsengland",
+  "version": "0.0.1",
+  "dependencies": {
+    "hl7.fhir.r4.core": "4.0.1",
+    "fhir.tx.support.r4": "0.27.0",
+    "fhir.r4.nhsengland.stu1": "1.5.0",
+    "fhir.r4.ukcore.stu3.currentbuild": "0.25.0-pre-release",
+    "hl7.fhir.uv.sdc": "3.0.0",
+    "hl7.fhir.uv.ipa": "1.0.0",
+    "hl7.fhir.eu.laboratory": "0.1.0"
+  },
+  "fhirVersions": [
+    "4.0.1"
+  ],
+  "jurisdiction": "urn:iso:std:iso:3166:-2:GB-ENG"
+}
