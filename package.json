@@ -4,7 +4,8 @@
   "author": "nhsengland",
   "version": "0.0.1",
   "dependencies": {
-    "fhir.r4.ukcore.stu2": "2.0.2"
+    "fhir.r4.ukcore.stu2": "2.0.2",
+    "hl7.terminology.r4": "7.0.1"
   },
   "fhirVersions": [
     "4.0.1"
