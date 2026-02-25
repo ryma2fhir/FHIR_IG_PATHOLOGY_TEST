@@ -13,22 +13,6 @@
   <rest>
     <mode value="server" />
         <resource>
-      <type value="Bundle" />
-      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/Bundle-eu-lab" />
-    </resource>
-        <resource>
-      <type value="Composition" />
-      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/Composition-eu-lab" />
-    </resource>
-    <resource>
-      <type value="DiagnosticReport" />
-      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/DiagnosticReport-eu-lab" />
-    </resource>
-        <resource>
-      <type value="Observation" />
-      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/Observation-resultslab-eu-lab" />
-    </resource>
-        <resource>
       <type value="Organization" />
       <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-Organization" />
     </resource>
@@ -43,14 +27,6 @@
     <resource>
       <type value="PractitionerRole" />
       <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-PractitionerRole" />
-    </resource>
-        <resource>
-      <type value="ServiceRequest" />
-      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/ServiceRequest-eu-lab" />
-    </resource>
-    <resource>
-      <type value="Specimen" />
-      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/Specimen-eu-lab" />
     </resource>
   </rest>
 </CapabilityStatement>
