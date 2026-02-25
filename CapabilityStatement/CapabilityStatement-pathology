@@ -22,11 +22,11 @@
     </resource>
     <resource>
       <type value="DiagnosticReport" />
-      <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-DiagnosticReport-Lab" />
+      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/DiagnosticReport-eu-lab" />
     </resource>
         <resource>
       <type value="Observation" />
-      <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-Observation-Lab" />
+      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/Observation-resultslab-eu-lab" />
     </resource>
         <resource>
       <type value="Organization" />
@@ -46,11 +46,11 @@
     </resource>
         <resource>
       <type value="ServiceRequest" />
-      <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-ServiceRequest" />
+      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/ServiceRequest-eu-lab" />
     </resource>
     <resource>
       <type value="Specimen" />
-      <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-Specimen" />
+      <profile value="http://hl7.eu/fhir/laboratory/StructureDefinition/Specimen-eu-lab" />
     </resource>
   </rest>
 </CapabilityStatement>
