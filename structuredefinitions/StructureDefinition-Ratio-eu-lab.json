@@ -47,10 +47,6 @@
   "baseDefinition" : "http://hl7.org/fhir/uv/ips/StructureDefinition/Ratio-uv-ips",
   "derivation" : "constraint",
   "snapshot" : {
-    "extension" : [{
-      "url" : "http://hl7.org/fhir/tools/StructureDefinition/snapshot-base-version",
-      "valueString" : "1.1.0"
-    }],
     "element" : [{
       "id" : "Ratio",
       "path" : "Ratio",
