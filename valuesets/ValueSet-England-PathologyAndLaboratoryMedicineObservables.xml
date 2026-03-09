@@ -1,7 +1,7 @@
 <ValueSet xmlns="http://hl7.org/fhir">
     <id value="England-PathologyAndLaboratoryMedicineObservables" />
     <url value="https://fhir.nhs.uk/England/ValueSet/England-PathologyAndLaboratoryMedicineObservables" />
-    <version value="0.1.1" />
+    <version value="0.1.2" />
     <name value="EnglandPathologyAndLaboratoryMedicineObservables" />
     <title value="England Pathology And Laboratory Medicine Observables" />
     <status value="draft" />
