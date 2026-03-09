@@ -15,7 +15,7 @@ jobs:
         with:
           token: ${{ secrets.AGGREGATOR_PAT }}
           repository: ryma2fhir/FHIR_IG_BASE_TEST
-          event-type: child-repo-updated
+          event-type: programme-repo-updated
           client-payload: |
             {
               "repo": "${{ github.repository }}",
