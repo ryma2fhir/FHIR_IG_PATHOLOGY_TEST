@@ -1,0 +1,17 @@
+{
+  "updated": "2026-03-30T15:37:23.3439224+01:00",
+  "dependencies": {
+    "fhir.r4.ukcore.stu2": "2.0.2",
+    "hl7.fhir.r4.core": "4.0.1",
+    "hl7.terminology.r4": "7.0.1",
+    "hl7.fhir.uv.extensions.r4": "5.2.0",
+    "hl7.fhir.uv.ips": "2.0.0",
+    "hl7.fhir.uv.ipa": "1.1.0",
+    "hl7.fhir.uv.smart-app-launch": "2.0.0",
+    "hl7.fhir.uv.xver-r5.r4": "0.0.1-snapshot-2",
+    "hl7.fhir.eu.extensions.r4": "1.2.0",
+    "hl7.fhir.eu.base": "2.0.0-ballot",
+    "ihe.pharm.mpd.r4": "1.0.0-comment-2"
+  },
+  "missing": {}
+}

@@ -11,10 +11,10 @@ jobs:
 
     steps:
       - name: Trigger parent subtree sync
-        uses: peter-evans/repository-dispatch@v3
+        uses: peter-evans/repository-dispatch@v4
         with:
           token: ${{ secrets.AGGREGATOR_PAT }}
-          repository: ryma2fhir/FHIR_IG_BASE_TEST
+          repository: NHSDigital/NHSEngland-FHIR-Programme-ImplementationGuide
           event-type: programme-repo-updated
           client-payload: |
             {
