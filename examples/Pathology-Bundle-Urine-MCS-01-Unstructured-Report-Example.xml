@@ -373,7 +373,7 @@
         <performer>
           <reference value="urn:uuid:8a6d85b8-9837-4fed-a257-4cf207988338" />
         </performer>
-        <valueString value="Microscopy&#10;Casts  None seen&#10;White cells  &gt;35 x10*6/L"/>
+        <valueString value="Microscopy\nCasts  None seen\nWhite cells  >35 x10*6/L\nRed cells  10-35 x10*6/L\nEpithelial cells  +\n\nCulture\n1. Staphylococcus aureus   Scanty growth\n\nSensitivities  1\nFlucloxacillin   S\nTrimethoprim  S\nNitrofurantoin  R" />
         <specimen>
           <reference value="urn:uuid:bde5b0a5-4fb3-4655-acf0-215b93aee006" />
         </specimen>
