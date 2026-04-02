@@ -61,7 +61,7 @@
         <section>
           <title value="Urinary microscopy, culture and sensitivities"/>
           <code>
-            <coding>              <!-- From PBCL observable entity reference set -->
+            <coding>              
               <system value="http://snomed.info/sct" />
               <code value="995581000000104" />
               <display value="Urinary microscopy, culture and sensitivities" />
@@ -77,7 +77,7 @@
   <entry>
     <fullUrl value="urn:uuid:8a6d85b8-9837-4fed-a257-4cf207988338" />
     <resource>
-      <Organization>        <!-- Performing Laboratory -->
+      <Organization>        
         <id value="8a6d85b8-9837-4fed-a257-4cf207988338" />
         <meta>
           <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-Organization" />
@@ -100,7 +100,7 @@
   <entry>
     <fullUrl value="urn:uuid:3c43b5b3-06d6-445f-ae9a-48d5f05df434" />
     <resource>
-      <Organization>        <!-- Requesting Organisation -->
+      <Organization> 
         <id value="3c43b5b3-06d6-445f-ae9a-48d5f05df434" />
         <meta>
           <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-Organization" />
@@ -122,7 +122,7 @@
   <entry>
     <fullUrl value="urn:uuid:9a835acf-d715-4d84-8dcf-a8435f6417fe" />
     <resource>
-      <Practitioner>        <!-- Requesting Practitioner -->
+      <Practitioner>   
         <id value="9a835acf-d715-4d84-8dcf-a8435f6417fe" />
         <meta>
           <profile value="https://fhir.hl7.org.uk/StructureDefinition/UKCore-Practitioner" />
@@ -220,7 +220,7 @@
         <status value="active" />
         <intent value="order" />
         <code>
-          <coding>            <!-- From PaLM procedure reference set -->
+          <coding> 
             <system value="http://snomed.info/sct" />
             <code value="401324008" />
             <display value="Urinary microscopy, culture and sensitivities" />
@@ -356,7 +356,7 @@
           </coding>
         </category>
         <code>
-          <coding>            <!-- From PBCL observable entity reference set -->
+          <coding>          
             <system value="http://snomed.info/sct" />
             <code value="995581000000104" />
             <display value="Urinary microscopy, culture and sensitivities" />
